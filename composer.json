@@ -1,0 +1,6 @@
+{
+    "require": {
+        "nesbot/carbon": "^2.36",
+        "stripe/stripe-php": "^7.40"
+    }
+}
